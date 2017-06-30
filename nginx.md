@@ -11,3 +11,4 @@ netstat -ntulp | grep 80  查看80端口
 
 ## 查看Node进程
     ps aux | grep node
+
